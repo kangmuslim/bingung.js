@@ -1,0 +1,2 @@
+# bingung.js
+bingung
